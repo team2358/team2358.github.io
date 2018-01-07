@@ -14,15 +14,16 @@ body {
 	position: absolute;
     top: 50%;
     left: 50%;
-    padding-top: 5px;
-    padding-bottom: 10px;
-    padding-right: 25px;
-    padding-left: 25px;
+    padding-top: 0.15%;
+    padding-bottom: 0.5%;
+    padding-right: 1.25%;
+    padding-left: 1.25%;
     transform: translate(-50%, -50%);
     background-color: rgba(0, 0, 0, 0.8);
 }
 
 .centered {
+	text-align:center;
 	font-family: 'Lato', sans-serif;
 	color: white;
 }
