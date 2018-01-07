@@ -1,3 +1,6 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
 
 .background{
 	position: relative;
@@ -24,14 +27,17 @@
 	color: white;
 }
 .github{
-	padding-top: 5%;
+	font-family: 'Lato', sans-serif;
+	padding-top: 7%;
     padding-bottom: 1%;
 }
 .twitter{
-	padding-top: 5%;
+	font-family: 'Lato', sans-serif;
+	padding-top: 7%;
     padding-bottom: 1%;
 }
 .youtube{
-	padding-top: 5%;
+	font-family: 'Lato', sans-serif;
+	padding-top: 7%;
 	padding-bottom: 1%;
 }
