@@ -1,0 +1,37 @@
+
+.background{
+	position: relative;
+}
+
+.backphoto{
+	padding-top: 2.5%;
+}
+
+.textblock{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.centered {
+	font-family: 'Lato', sans-serif;
+	color: white;
+}
+.github{
+	padding-top: 5%;
+    padding-bottom: 1%;
+}
+.twitter{
+	padding-top: 5%;
+    padding-bottom: 1%;
+}
+.youtube{
+	padding-top: 5%;
+	padding-bottom: 1%;
+}
