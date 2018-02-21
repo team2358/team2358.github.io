@@ -27,6 +27,13 @@ body {
 	font-family: 'Lato', sans-serif;
 	color: white;
 }
+
+.flexseal {
+	max-width: 100%;
+	height: auto;
+}
+
+
 .centered2 {
 	text-align:center;
 	font-family: 'Lato', sans-serif;

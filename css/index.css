@@ -28,6 +28,11 @@ body {
 	color: white;
 }
 
+.flexseal {
+	max-width: 100%;
+	height: auto;
+}
+
 .github{
 	font-family: 'Lato', sans-serif;
 	padding-top: 7%;
